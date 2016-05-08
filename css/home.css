@@ -43,3 +43,9 @@ body {
 	width:350px;
 	height: 230px;
 }
+
+#tab-name {
+	font-size: 30px;
+	padding-bottom: 10px;
+	text-align: center;
+}
