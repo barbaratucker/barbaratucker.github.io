@@ -50,3 +50,8 @@ body {
 	padding-bottom: 10px;
 	text-align: center;
 }
+.goat-name {
+	font-size: 18px;
+	font-weight: 600;
+	padding-bottom: 5px;
+}
