@@ -35,3 +35,11 @@ body {
 	font-size: 20px;
 	text-align: center;
 }
+.img-wrapper {
+	text-align: center;
+	padding-bottom: 40px;
+}
+.img {
+	width:350px;
+	height: 230px;
+}
