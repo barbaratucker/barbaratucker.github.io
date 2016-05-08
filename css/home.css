@@ -42,6 +42,7 @@ body {
 .img {
 	width:350px;
 	height: 230px;
+	padding: 5px;
 }
 
 #tab-name {
