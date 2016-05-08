@@ -1,0 +1,17 @@
+body {
+    font-family: 'Lato', sans-serif;
+    background-color: #EDDA74;
+}
+
+#name {
+	font-size: 30px;
+	text-align: center;
+	padding-top: 50px;
+	color: #A32B2B;
+}
+
+#description {
+	font-size: 18px;
+	text-align: center;
+	padding-bottom: 15px;
+}

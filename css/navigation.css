@@ -1,27 +1,31 @@
+#nav {
+    text-align:center;
+    width: 100%;
+}
 ul {
+    margin: 0 auto;
     list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
     background-color: #EDDA74;
-}
+    text-transform: uppercase;
 
+}
 li {
-    float: left;
-}
-
-li a {
-    display: block;
+    display:inline-block;
     color: black;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
+    
+}
+li a {
+    text-decoration:none; 
+    color: black;
+    display: inline-block;
+    padding: 15px 20px 15px 20px;
 }
 
-a:hover:not(.active) {
+li:hover:not(.active) {
     background-color: #4CAF50;
+
 }
 
 .active {
-background-color:#4CAF50;
+    background-color:#4CAF50;
 }
