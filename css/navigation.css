@@ -1,26 +1,26 @@
 #nav {
     text-align:center;
     width: 100%;
+    text-transform: uppercase;
 }
-ul {
+#nav ul {
     margin: 0 auto;
     list-style-type: none;
     background-color: #E9E9E9;
-    text-transform: uppercase;
 }
-li {
+#nav li {
     display:inline-block;
     color: black;
     
 }
-li a {
+#nav li a {
     text-decoration:none; 
     color: black;
     display: inline-block;
     padding: 15px 20px 15px 20px;
 }
 
-li:hover a:hover {
+#nav li:hover a:hover {
     color: #2B8985;
 
 }
