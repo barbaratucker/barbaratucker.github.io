@@ -1,13 +1,13 @@
 body {
     font-family: 'Lato', sans-serif;
-    background-color: #EDDA74;
+    background-color: #E9E9E9;
 }
 
 #name {
 	font-size: 45px;
 	text-align: center;
 	padding-top: 50px;
-	color: #A32B2B;
+	color: #2B8985;
 }
 
 #description {

@@ -5,7 +5,7 @@
 ul {
     margin: 0 auto;
     list-style-type: none;
-    background-color: #EDDA74;
+    background-color: #E9E9E9;
     text-transform: uppercase;
 }
 li {
@@ -20,11 +20,8 @@ li a {
     padding: 15px 20px 15px 20px;
 }
 
-li:hover:not(.active) {
-    background-color: #4CAF50;
+li:hover a:hover {
+    color: #2B8985;
 
 }
 
-.active {
-    background-color:#4CAF50;
-}
