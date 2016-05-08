@@ -4,14 +4,14 @@ body {
 }
 
 #name {
-	font-size: 30px;
+	font-size: 45px;
 	text-align: center;
 	padding-top: 50px;
 	color: #A32B2B;
 }
 
 #description {
-	font-size: 18px;
+	font-size: 16px;
 	text-align: center;
 	padding-bottom: 15px;
 }
