@@ -45,7 +45,11 @@ body {
 	height: 230px;
 	padding: 5px;
 }
-
+.dwarf-img {
+	width: 450px;
+	height: auto;
+	padding: 5px;
+}
 #tab-name {
 	font-size: 30px;
 	padding-bottom: 10px;
