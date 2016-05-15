@@ -63,3 +63,8 @@ body {
 	font-weight: 800;
 	text-indent: 40px;
 }
+.sold {
+	font-weight: 800;
+	font-size: 16px;
+	color: red;
+}
