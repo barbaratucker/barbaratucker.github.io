@@ -49,6 +49,11 @@ body {
 	height: auto;
 	padding: 5px;
 }
+.udder-img {
+	width: 310px;
+	height: auto;
+	padding: 5px;
+}
 #tab-name {
 	font-size: 30px;
 	padding-bottom: 10px;
