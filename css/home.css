@@ -73,3 +73,7 @@ body {
 	font-size: 16px;
 	color: red;
 }
+.onclick {
+	color: #2B8985;
+	cursor: pointer;
+}
