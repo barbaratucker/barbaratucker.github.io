@@ -44,6 +44,11 @@ body {
 	height: 230px;
 	padding: 5px;
 }
+.img-vert {
+	width: 350px;
+	height: 480px;
+	padding: 5px;
+}
 .dwarf-img {
 	width: 450px;
 	height: auto;
