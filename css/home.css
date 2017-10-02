@@ -18,7 +18,7 @@ body {
 
 .info {
 	padding-top: 20px;
-	font-size: 15px;
+	font-size: 14px;
 }
 
 .para {
@@ -50,7 +50,7 @@ body {
 	padding: 5px;
 }
 .dwarf-img {
-	width: 450px;
+	width: 400px;
 	height: auto;
 	padding: 5px;
 }
@@ -73,10 +73,6 @@ body {
 	font-size: 18px;
 	font-weight: 600;
 	padding-bottom: 5px;
-}
-.goat-dna {
-	font-weight: 800;
-	text-indent: 40px;
 }
 .sold {
 	font-weight: 800;
