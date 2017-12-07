@@ -211,3 +211,10 @@ body.lb-disable-scrolling {
   filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=100);
   opacity: 1;
 }
+
+#soap-list {
+  font-weight: 600;
+  padding-top: 20px;
+  padding-bottom: 10px;
+
+}
