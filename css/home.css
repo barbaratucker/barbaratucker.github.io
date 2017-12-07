@@ -3,6 +3,10 @@ body {
     background-color: #E9E9E9;
 }
 
+a {
+	color: inherit;
+}
+
 #name {
 	font-size: 45px;
 	text-align: center;
