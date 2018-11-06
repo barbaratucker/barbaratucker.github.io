@@ -97,3 +97,16 @@ a {
 	padding-top:30px;
 	font-size:20px;
 }
+
+/* kidding page */
+tbody.kidding-schedule > tr > td > div {
+  display: inline;
+}
+
+tbody.kidding-schedule > tr > td > div:hover {
+  text-decoration: underline;
+}
+
+th.kidding-doe {
+  min-width: 180px;
+}
