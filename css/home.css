@@ -110,3 +110,7 @@ tbody.kidding-schedule > tr > td > div:hover {
 th.kidding-doe {
   min-width: 250px;
 }
+
+.info .table td {
+    font-size: 14px;
+}
