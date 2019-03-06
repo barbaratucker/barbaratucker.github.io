@@ -79,12 +79,16 @@ a {
 	padding-bottom: 5px;
 }
 .sold {
-	font-weight: 800;
 	font-size: 16px;
 	color: red;
 }
 .onclick {
 	cursor: pointer;
+  display: inline-block;
+}
+
+.onclick:hover {
+	text-decoration: underline;
 }
 
 .farm-pic {
@@ -113,4 +117,15 @@ th.kidding-doe {
 
 .info .table td {
     font-size: 14px;
+}
+
+/* nursery page */
+.nursery-header {
+    font-size: 25px;
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+
+.nursery-pic {
+  border: 3px solid #fff;
 }
