@@ -1,6 +1,5 @@
 body {
     font-family: 'Lato', sans-serif;
-    background-color: #E9E9E9;
 }
 
 a {
@@ -8,9 +7,9 @@ a {
 }
 
 #name {
-	font-size: 45px;
 	text-align: center;
-	padding-top: 50px;
+	padding-top: 40px;
+  padding-bottom: 10px;
 	color: #2B8985;
 }
 
