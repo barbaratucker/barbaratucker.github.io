@@ -1,11 +1,13 @@
 #nav {
     text-align:center;
     text-transform: uppercase;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    width: 100%;
 }
-#nav ul {
+ul {
     margin: 0 auto;
     list-style-type: none;
-    background-color: #E9E9E9;
 }
 #nav li {
     display:inline-block;
@@ -22,4 +24,15 @@
 #nav li:hover a:hover {
     color: #2B8985;
 
+}
+
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background-color: #D3D3D3;
+}
+
+.sticky + .info {
+  padding-top: 60px;
 }
