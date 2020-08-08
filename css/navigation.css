@@ -1,9 +1,9 @@
 #nav {
     text-align:center;
     text-transform: uppercase;
-    padding-top: 15px;
-    padding-bottom: 15px;
+    padding: 10px 0px;
     width: 100%;
+    z-index: 1;
 }
 ul {
     margin: 0 auto;
@@ -35,4 +35,8 @@ ul {
 
 .sticky + .info {
   padding-top: 60px;
+}
+
+.kidding-container {
+  width: 1200px;
 }
