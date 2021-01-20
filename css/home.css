@@ -8,7 +8,7 @@ a:hover {
 
 #name {
 	text-align: center;
-	padding-top: 40px;
+	padding-top: 30px;
   padding-bottom: 10px;
 	color: #2B8985;
 }
@@ -69,7 +69,6 @@ a:hover {
 }
 #tab-name {
 	font-size: 30px;
-	padding-bottom: 10px;
 	text-align: center;
 }
 .goat-name {
