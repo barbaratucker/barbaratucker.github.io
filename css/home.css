@@ -72,6 +72,14 @@ a:hover {
 	font-weight: 600;
 	padding-bottom: 5px;
 }
+
+.goat-cost {
+	color: blue;
+}
+
+.goat-sold-cost {
+	color: red;
+}
 .sold {
 	font-size: 16px;
 	color: red;
