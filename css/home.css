@@ -126,8 +126,12 @@ th.kidding-doe {
     font-size: 22px;
     padding-top: 50px;
     padding-bottom: 5px;
-    border-bottom: 1px solid #000;
+    border-bottom: 1px solid rgb(162, 162, 162);
     margin-bottom: 10px;
+}
+
+.nursery-desc {
+	font-size: 20px;
 }
 
 .nursery-pic {
