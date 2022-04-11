@@ -1,128 +1,142 @@
 a:hover {
-  text-decoration: underline;
+    text-decoration: underline;
 }
 
 #name {
-	text-align: center;
-	padding-top: 30px;
-  padding-bottom: 10px;
-	color: #2B8985;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 10px;
+    color: #2B8985;
 }
 
 #description {
-	font-size: 16px;
-	text-align: center;
-	padding-bottom: 15px;
+    font-size: 16px;
+    text-align: center;
+    padding-bottom: 15px;
 }
 
 .info {
-	padding-top: 20px;
-	font-size: 16px;
+    padding-top: 20px;
+    font-size: 16px;
 }
 
 .para {
-	padding-bottom: 12px;
+    padding-bottom: 12px;
 }
 
 #text {
-	text-align: center;
-	padding-bottom: 30px;
+    text-align: center;
+    padding-bottom: 30px;
 }
 
 #contact {
-	padding: 10px 0px 20px 0px;
-	font-size: 20px;
-	text-align: center;
+    padding: 10px 0px 20px 0px;
+    font-size: 20px;
+    text-align: center;
 }
+
 .img-wrapper {
-	text-align: center;
-	padding-bottom: 40px;
+    text-align: center;
+    padding-bottom: 40px;
 }
+
 .img {
-	width:350px;
-	height: 230px;
-	padding: 5px;
+    width: 350px;
+    height: 230px;
+    padding: 5px;
 }
+
 .img-vert {
-	width: 350px;
-	height: 480px;
-	padding: 5px;
+    width: 350px;
+    height: 480px;
+    padding: 5px;
 }
+
 .dwarf-img {
-	width: 400px;
-	height: auto;
-	padding: 5px;
+    width: 400px;
+    height: auto;
+    padding: 5px;
 }
+
 .udder-img {
-	width: 250px;
-	height: auto;
-	padding: 5px;
+    width: 250px;
+    height: auto;
+    padding: 5px;
 }
+
 .udder-img1 {
-	width: auto;
-	height: 180px;
-	padding: 5px;
+    width: auto;
+    height: 210px;
+    padding: 5px;
 }
+
 #tab-name {
-	font-size: 30px;
-	text-align: center;
+    font-size: 30px;
+    text-align: center;
 }
+
 .goat-name {
-	font-size: 18px;
-	font-weight: 600;
-	padding-bottom: 5px;
+    font-size: 18px;
+    font-weight: 600;
+    padding-bottom: 5px;
 }
 
 .goat-cost {
-	color: blue;
+    color: blue;
 }
 
 .goat-sold-cost {
-	color: red;
+    color: red;
 }
+
 .sold {
-	font-size: 16px;
-	color: red;
-	font-weight: 600;
+    font-size: 16px;
+    color: red;
+    font-weight: 600;
 }
+
 .onclick {
-	cursor: pointer;
-  display: inline-block;
+    cursor: pointer;
+    display: inline-block;
 }
 
 .onclick:hover {
-	text-decoration: underline;
+    text-decoration: underline;
 }
 
 .farm-pic {
-	width:150px;
-	padding-top:5px;
-	padding-right:3px;
+    width: 150px;
+    padding-top: 5px;
+    padding-right: 3px;
 }
 
 #kidding-info {
-	padding-top:30px;
-	font-size:20px;
+    padding-top: 30px;
+    font-size: 20px;
 }
+
 
 /* kidding page */
-tbody.kidding-schedule > tr > td > div {
-  display: inline;
+
+tbody.kidding-schedule>tr>td>div {
+    display: inline;
 }
 
-tbody.kidding-schedule > tr > td > div:hover {
-  text-decoration: underline;
+tbody.kidding-schedule>tr>td>div:hover {
+    text-decoration: underline;
 }
 
 th.kidding-doe {
-  min-width: 250px;
+    min-width: 250px;
 }
 
 .info .table td {
     font-size: 14px;
 }
 
+
 /* nursery page */
+
 .nursery-header {
     font-size: 22px;
     padding-top: 50px;
@@ -132,18 +146,18 @@ th.kidding-doe {
 }
 
 .nursery-desc {
-	font-size: 20px;
+    font-size: 20px;
 }
 
 .nursery-pic {
-  border: 2px solid #000;
+    border: 2px solid #000;
 }
 
 .no-nursery {
-  border: 2px solid #000;
-  height: 155px;
+    border: 2px solid #000;
+    height: 155px;
 }
 
 .onclick {
-  text-transform: uppercase;
+    text-transform: uppercase;
 }
