@@ -161,3 +161,7 @@ th.kidding-doe {
 .onclick {
     text-transform: uppercase;
 }
+
+.container {
+    min-width: 1100px;
+}
