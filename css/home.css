@@ -20,6 +20,13 @@ a:hover {
     font-size: 16px;
 }
 
+.farm-info {
+    padding-top: 20px;
+    font-size: 16px;
+    display: flex;
+    text-align: center;
+}
+
 .para {
     padding-bottom: 12px;
 }
