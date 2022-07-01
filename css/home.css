@@ -172,3 +172,7 @@ th.kidding-doe {
 .container {
     min-width: 1200px;
 }
+
+.achievement-cost {
+    text-align: right !important;
+}
