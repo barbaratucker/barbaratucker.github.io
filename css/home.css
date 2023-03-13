@@ -90,6 +90,8 @@ a:hover {
 
 .goat-cost {
     color: blue;
+    font-size: 15px;
+    font-weight: 600;
 }
 
 .goat-sold-cost {
